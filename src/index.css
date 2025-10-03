@@ -1,0 +1,20 @@
+.btn {
+  background-color: rgb(198, 198, 198);
+  width: 100px;
+  height: 100px;
+  font-size: 48px;
+}
+
+.field {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  gap: 5px;
+}
+
+.list {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.list li {
+  margin-top: 10px;
+}
